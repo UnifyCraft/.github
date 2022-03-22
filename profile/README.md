@@ -8,7 +8,7 @@
 
 ### 💌 Contact us.
 - [Discord][discord]
-- ~~[Website (under construction)][website]~~
+- ~~[Website][website]~~
 - ~~contact@unifycraft.xyz~~
 
 [discord]: https://discord.gg/bhGeqQ3XE3
