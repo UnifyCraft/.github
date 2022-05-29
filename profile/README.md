@@ -9,7 +9,7 @@
 ### 💌 Contact us.
 - [Discord][discord]
 - ~~[Website][website]~~
-- ~~contact@unifycraft.xyz~~
+- contact@unifycraft.xyz
 
 [discord]: https://discord.gg/bhGeqQ3XE3
-[website]: https://www.incrie.xyz/
+[website]: https://www.unifycraft.xyz/
