@@ -11,5 +11,5 @@
 - ~~[Website][website]~~
 - contact@unifycraft.xyz
 
-[discord]: https://discord.gg/bhGeqQ3XE3
+[discord]: https://discord.unifycraft.xyz/
 [website]: https://www.unifycraft.xyz/
